@@ -71,11 +71,33 @@ Proporciona a los usuario un entorno en el cual se puede desarrollar, gestionar 
 |Google Cloud Computing|Google Cloud Computing ofrece, al igual que los otros competidores, una gran cantidad de servicio con enfoques similares. Un servicio que ofrece es el de Google Compute Engine, el cual se enfoca en la utilización de máquinas virtuales alojadas en la nube. Otro servicio que ofrece es el de Google Kubernetes Engine, el cual ofrece un ambiente enfocado en el despliegue, gestión y escala de aplicaciones utilizando la infraestructura ofrecida por Google. El ambiente GKE consiste en un grupo de múltiples Computer Engines unidas formando un cluster. También ofrece el servicio de almacenamiento de datos mediante la utilización del servicio Google Cloud Storage. Ofrece servicios de traducción, text-to-speech y speech-to-text alojados en la nube. También tiene el servicio de Apigee, el cual se enfoca en un ambiente para empresas de desarrollo en el diseño, seguridad y escala de APIs. Por último, ofrecen servicios de bases de datos mediante Cloud SQL, el cual permite configurar, administrar y mantener bases de datos en Google Cloud Platform. Este servicio permite la utilización de MySQL, PostgreSQL y SQL Server para su implementación.[11]|Se presenta como el tercer mejor proveedor de servicios de nube. Registrando ganancias de 6,7 millones de dólares y presentando un crecimiento del  55% en el año 2020.[5]|Entre los beneficios y servicios que Google ofrece a los desarrolladores se encuentra Cloud Code, el cual incluye herramientas para escribir, implementar y depurar aplicaciones nativas de la nube. Proporciona extensiones para IDEs como IntelliJ y Visual Studio Code. Google también ofrece APIs y bibliotecas de cliente propias alojadas en la nube para asegurar que el desarrollador optimice al máximo la creación de un proyecto basado en el SDK de Cloud. Ofrece servicios de compilación de código, como lo es Cloud Build. Con este servicio se puede compilar software con rapidez en todos los lenguajes. Permite el trabajo en ambientes como máquinas virtuales, serverless y Kubernetes. Por último, ofrece servicios de recursos para proyectos como Cloud Deployment Manager el cual permite especificar todos los recursos necesarios para aplicaciones en un formato declarativo con el uso de yaml; utiliza plantillas de Python para parametrizar la configuración de los programas.[11]|
 
 # Referencias
+[1]. Historia del cloud computing, ¿quién lo hizo posible?. Available: https://einatec.com/historia-cloud-computing/#:~:text=El%20cloud%20computing%20es%20un,dispositivo%20con%20conexi%C3%B3n%20a%20Internet.
+
+[2]  Conceptos Básicos de Cloud Computing – ¿Qué necesito saber?. Available: https://www.temastecnologicos.com/cloud-computing/.
+
+[3] (1 de Noviembre de). Modelos de despliegue cloud: Cloud privado, cloud público y cloud híbrido. Available: https://nexica.com/es/blog/modelos-de-despliegue-cloud-cloud-privado-cloud-p%C3%BAblico-y-cloud-h%C3%ADbrido.
+
+[4] . IaaS, PaaS y SaaS – Modelos de servicio de IBM Cloud. Available: https://www.ibm.com/es-es/cloud/learn/iaas-paas-saas.
+
+[5] (July 1,). Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players. Available: https://www.zdnet.com/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas.
+
+[6] (Oct 16,). Which are the 6 Fundamental Microsoft Cloud Services that are in Demand?. Available: https://www.simplilearn.com/6-fundamental-microsoft-cloud-services-that-are-in-demand-rar365-article.
+
+[7] (26 de abril). Amazon Web Services. Available: https://www.ticportal.es/temas/cloud-computing/amazon-web-services.
+
+[8] (18 de Julio). IBM Cloud (formerly IBM Bluemix and IBM SoftLayer). Available: https://searchcloudcomputing.techtarget.com/definition/IBM-Bluemix.
+
+[9] (24 Marzo). ¿QUÉ ES MICROSOFT AZURE Y CUÁLES SON SUS BENEFICIOS?. Available: https://www.executrain.com.mx/blog/microsoft/item/que-es-microsoft-azure-y-cuales-son-sus-beneficios.
+
+[10] (). Comience a crear con AWS hoy mismo. Available: https://aws.amazon.com/es/.
+
+[11] (May 20,). What Google Cloud Platform is and why you’d use it. Available: https://www.zdnet.com/article/what-google-cloud-platform-is-and-why-youd-use-it/.
 
 # Link al repositorio y la aplicación
 
 
 
 **Repositorio**: https://github.com/MAU143429/Investigacion-Cloud-Computing
+
 **Aplicacion**:
 
