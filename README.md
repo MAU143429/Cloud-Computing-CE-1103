@@ -1,23 +1,25 @@
-Instituto Tecnológico de Costa Rica
-Área Académica de Ingeniería en Computadores
-Investigación Cloud Computing
+**Instituto Tecnológico de Costa Rica**
+
+**Área Académica de Ingeniería en Computadores**
+
+**Investigación Cloud Computing**
 
 ![](https://cdn.discordapp.com/attachments/693288242279219231/736089626644709467/lgo_tec.png)
 
 
-Algoritmos y Estructuras de Datos I 
+**Algoritmos y Estructuras de Datos I** 
 
 
-Profesor: Diego Noguera Mena
+**Profesor: Diego Noguera Mena**
+
+**Mauricio Calderón Chavarría 2019182667**	
+
+**José Antonio Espinoza 2019083698**
+
+**I Semestre 2020**
 
 
-Mauricio Calderón Chavarría 2019182667	
-José Antonio Espinoza 2019083698
-
-     I Semestre 2020
-
-
-# Definicion e Historia sobre el Cloud Computing
+# Definición e Historia sobre el Cloud Computing
 
 El cloud computing o también conocido como la computación de la nube, es una tecnología que permite a las empresas o usuarios el almacenamiento y procesamiento de  datos por medio de internet facilitando así el acceso a los datos a través de cualquier dispositivo,  hora y lugar, debido a que no es necesario instalar nada para poder utilizarla y se puede acceder en todo momento, el término de la computación en la nube también puede conocerse como la prestación de un servicio a través de internet  por parte de un proveedor.
   
