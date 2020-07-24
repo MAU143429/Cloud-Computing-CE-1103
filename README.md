@@ -25,7 +25,7 @@ Este modelo proporciona a los usuarios un software basado en cloud de un proveed
 Proporciona a los usuario un entorno en el cual se puede desarrollar, gestionar y distribuir aplicaciones, aparte de poder personalizar y probar sus propias aplicaciones. El PaaS incluye la misma infraestructura de  las IaaS pero también incluyen middleware, herramientas de desarrollo y servicios de inteligencia empresarial a parte de un gran sistema de administración de bases de datos
 
 # Comparativa entre los tres pricipales proveedores de Cloud Computing
-| Oferta General | Posicionamiento en el Mercado | Beneficios para Desarrolladores |
+|| Oferta General | Posicionamiento en el Mercado | Beneficios para Desarrolladores |
 |---|---|---|---|
 |Amazon Web Services| ... | ...| ...|
 |Microsoft Azure|...|...|...|
