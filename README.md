@@ -30,6 +30,15 @@ Después del lanzamiento de Arpanet se comenzó a expandir más el concepto de l
 Ya para finales de los 90, se produjo un gran avance  en la computación en la nube debido a que se inauguró Salesforce, lo que podría considerarse que llevó a los servicios de nube al éxito y propició que muchas empresas comenzaron con el desarrollo de muchos tipos de nubes que luego fueron dando a luz a través de los años hasta lo que conocemos hoy en dia.
 
 # Conceptos Básicos
+
+**Virtualización**: Se puede definir como la reproducción virtual de un recurso tecnológico, como por ejemplo un dispositivo de almacenamiento, sistema operativo, plataforma de hardware o software. La virtualización es una parte fundamental de la computación en la nube ya que ella permite el buen funcionamiento de la infraestructura técnica que permite brindar servicios alojados en una nube.
+
+**Proveedores de servicio**: Son aquellas compañías que ofrecen un servicio de alojamiento de datos a través de internet, como lo pueden ser Amazon,Google, Microsoft Azure etc.
+
+**Aplicaciones virtuales**: Son aquellas aplicaciones, funciones o herramientas las cuales están disponibles desde la nube y el usuario que las utiliza no requiere de ningún software para poder utilizarlas ya que funcionamiento principal de estas ya se encuentra dentro de los servicios brindados por la nube.
+
+**Big Data**: Este término agrupa una serie de técnicas para el procesamiento de grandes cantidades de datos englobando gran variedad de ideas y aproximaciones con el fin de obtener información valiosa de los datos que puedan llegar a ser útiles.
+
  
 # Modelos de despliegue
 
