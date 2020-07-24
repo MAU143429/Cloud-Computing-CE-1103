@@ -93,13 +93,16 @@ Proporciona a los usuario un entorno en el cual se puede desarrollar, gestionar 
 
 [11] (May 20,). What Google Cloud Platform is and why you’d use it. Available: https://www.zdnet.com/article/what-google-cloud-platform-is-and-why-youd-use-it/.
 
-# Link al repositorio y la aplicación
+# Link al repositorio y las aplicaciones
 
 
 
 **Repositorio**: https://github.com/MAU143429/Investigacion-Cloud-Computing
 
 **Links de las Aplicaciones**:
--Aplicación "Hello" en IBM Cloud: [http://ibmsimpleapp-quick-emu-ip.mybluemix.net/](http://ibmsimpleapp-quick-emu-ip.mybluemix.net/). 
-    Desarrollada en Python, Proveedor: IBM Cloud, Alojado en IBM Cloud como: ibmsimpleapp.
+1) Aplicación "Hello" en IBM Cloud: [http://ibmsimpleapp-quick-emu-ip.mybluemix.net/](http://ibmsimpleapp-quick-emu-ip.mybluemix.net/). Desarrollada en Python, Proveedor: IBM Cloud, Alojado en IBM Cloud como: ibmsimpleapp.
+
+2)Aplicación "" en Google Cloud Platform:
+
+3)Aplicación "" en Microsoft Azure:
 
