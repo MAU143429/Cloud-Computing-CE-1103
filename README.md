@@ -1,22 +1,22 @@
-**Instituto Tecnológico de Costa Rica**
+# Instituto Tecnológico de Costa Rica
 
-**Área Académica de Ingeniería en Computadores**
+# Área Académica de Ingeniería en Computadores
 
-**Investigación Cloud Computing**
+# Investigación Cloud Computing
 
 ![](https://cdn.discordapp.com/attachments/693288242279219231/736089626644709467/lgo_tec.png)
 
 
-**Algoritmos y Estructuras de Datos I** 
+# Algoritmos y Estructuras de Datos I 
 
 
-**Profesor: Diego Noguera Mena**
+# Profesor: Diego Noguera Mena
 
-**Mauricio Calderón Chavarría 2019182667**	
+# Mauricio Calderón Chavarría 2019182667	
 
-**José Antonio Espinoza 2019083698**
+# José Antonio Espinoza 2019083698
 
-**I Semestre 2020**
+# I Semestre 2020
 
 
 # Definición e Historia sobre el Cloud Computing
