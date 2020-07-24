@@ -1,5 +1,41 @@
+                                                       Instituto Tecnológico de Costa Rica
+                                                   Área Académica de Ingeniería en Computadores
+                                                          Investigación Cloud Computing
+
+                              ![](https://cdn.discordapp.com/attachments/693288242279219231/736089626644709467/lgo_tec.png)
+
+
+                                                         Algoritmos y Estructuras de Datos I 
+
+
+                                                            Profesor: Diego Noguera Mena
+
+
+                                                    }   Mauricio Calderón Chavarría 2019182667	
+                                                          José Antonio Espinoza 2019083698
+
+                                                                 I Semestre 2020
+
+
+
+
+
+
+
+
+
+
+
 # Definicion e Historia sobre el Cloud Computing
+
+El cloud computing o también conocido como la computación de la nube, es una tecnología que permite a las empresas o usuarios el almacenamiento y procesamiento de  datos por medio de internet facilitando así el acceso a los datos a través de cualquier dispositivo,  hora y lugar, debido a que no es necesario instalar nada para poder utilizarla y se puede acceder en todo momento, el término de la computación en la nube también puede conocerse como la prestación de un servicio a través de internet  por parte de un proveedor.
   
+Si bien el cloud computing puede verse como un concepto algo nuevo en realidad no lo es ya que su historia se remonta  desde 1961 cuando  John McCarthy decide  apostar por la computación compartida, con la gran idea de vender el uso de memoria y espacio como un servicio público más. Luego de esto Joseph Carl Robnett Licklider en 1969 a quien también se le conoce como uno de los pioneros de la computación en la nube,  plantea la necesidad de un sistema que permitiera a varios usuarios compartir información y estar interconectados desde cualquier lugar ya que muchas empresas llegaban a necesitar consultar cantidades de datos muy grandes y recurrir a mas equipo no era una opción viable. Fue hasta la llegada del internet en 1983 cuando Joseph Carl despues de muchas investigaciones logró encontrar una manera de conectar personas utilizando la red como su principal elemento, de ahí surge Arpanet, que fue una red global de comunicación.
+
+Después del lanzamiento de Arpanet se comenzó a expandir más el concepto de la computación en la nube, que pronto pasaría de ser un concepto a toda una realidad ya que varias empresas como Amazon, Google y AT&T decidieron comenzar un desarrollo en esta área. Fue tanto el impacto que aún se siguen disputando el papel de quien creo y contextualizó el concepto de la computación en la nube.
+
+Ya para finales de los 90, se produjo un gran avance  en la computación en la nube debido a que se inauguró Salesforce, lo que podría considerarse que llevó a los servicios de nube al éxito y propició que muchas empresas comenzaron con el desarrollo de muchos tipos de nubes que luego fueron dando a luz a través de los años hasta lo que conocemos hoy en dia.
+
 # Conceptos Básicos
  
 # Modelos de despliegue
