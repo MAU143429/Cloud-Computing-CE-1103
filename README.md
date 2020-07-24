@@ -32,7 +32,27 @@ Proporciona a los usuario un entorno en el cual se puede desarrollar, gestionar 
 |Google Cloud Services|...|...|...|
 
 
-# Link al repositorio y la aplicación 
+# Link al repositorio y la aplicación
+# Referencias
+<table>
+  <tr>
+    <th>var</th>
+    <th>let</th>
+    <th>const</th>
+  </tr>
+  <tr>
+    <td>
+      Declares a variable, optionally initializing it to a value.
+    </td>
+    <td>
+      Declares a block-scoped, local variable, optionally initializing it to a value.
+    </td>
+    <td>
+      Declares a block-scoped, read-only named constant.
+    </td>
+  </tr>
+  ...
+</table>
 
 **Repositorio**: https://github.com/MAU143429/Investigacion-Cloud-Computing
 **Aplicacion**:
