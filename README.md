@@ -106,7 +106,7 @@ Proporciona a los usuario un entorno en el cual se puede desarrollar, gestionar 
 **Links de las Aplicaciones**:
 1) Aplicación "Hello" en IBM Cloud: [http://ibmsimpleapp-quick-emu-ip.mybluemix.net/](http://ibmsimpleapp-quick-emu-ip.mybluemix.net/). Desarrollada en Python, Proveedor: IBM Cloud, Alojado en IBM Cloud como: ibmsimpleapp.
 
-2)Aplicación "" en Google Cloud Platform:
+2)Aplicación "Calcula factorial" en Google Cloud Platform: [https://integral-sol-284320.ue.r.appspot.com/](https://integral-sol-284320.ue.r.appspot.com/) Desarrollada en Python, Proveedor: Google Cloud Platform.
 
-3)Aplicación "" en Microsoft Azure:
+3)Aplicación "Print Hello World" en Microsoft Azure:[https://azureappdatos1.azurewebsites.net/](https://azureappdatos1.azurewebsites.net/). Desarrollada en JavaScript y HTML, Proveedor: Microsoft Azure. Alojado en Microsoft Azure como : azureappdatos1
 
