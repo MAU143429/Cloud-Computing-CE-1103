@@ -93,6 +93,10 @@ Proporciona a los usuario un entorno en el cual se puede desarrollar, gestionar 
 
 [11] (May 20,). What Google Cloud Platform is and why you’d use it. Available: https://www.zdnet.com/article/what-google-cloud-platform-is-and-why-youd-use-it/.
 
+[12] Sloyer Jeff, "Deploying a Hello World Python Flask App in IBM Bluemix (Cloud Foundry)," vol. YouTube, 19 marzo, 2015.
+
+[13] Parsons Chris, "Google Cloud Platform - Python Tutorial," vol. YouTube, 15 de nov, 2016.
+
 # Link al repositorio y las aplicaciones
 
 
